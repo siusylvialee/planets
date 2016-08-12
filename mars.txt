@@ -1,3 +1,2 @@
-Cold and dry, but everything is my favorite color
 the two moons are a problem
-this is added in temp folder
+we removed the conflict on this line
